@@ -1,3 +1,5 @@
+<div style="text-align: justify">
+
 # Legislação Relevante
 
 ## [LEI Nº 12.527, DE 18 DE NOVEMBRO DE 2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm)
@@ -111,3 +113,5 @@ Art. 48-A. Para os fins a que se refere o inciso II do parágrafo único do art.
 I – quanto à despesa: todos os atos praticados pelas unidades gestoras no decorrer da execução da despesa, no momento de sua realização, com a disponibilização mínima dos dados referentes ao número do correspondente processo, ao bem fornecido ou ao serviço prestado, à pessoa física ou jurídica beneficiária do pagamento e, quando for o caso, ao procedimento licitatório realizado;
 
 II – quanto à receita: o lançamento e o recebimento de toda a receita das unidades gestoras, inclusive referente a recursos extraordinários.
+
+</div>
