@@ -114,4 +114,24 @@ I – quanto à despesa: todos os atos praticados pelas unidades gestoras no dec
 
 II – quanto à receita: o lançamento e o recebimento de toda a receita das unidades gestoras, inclusive referente a recursos extraordinários.
 
+
+## [DECRETO 47553 DE 07/12/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC&num=47553&comp=&ano=2018&texto=original)
+
+Art. 1º – Este decreto dispõe sobre a qualificação de pessoa jurídica de direito privado, sem fins lucrativos, como Organização Social – OS – e a instituição do contrato de gestão.
+
+[...]
+
+Art. 103 – A Seplag, em articulação com a CGE, adotará medidas necessárias para a efetivação das ações de transparência ativa e aumento do controle social.
+
+## [DECRETO 47554 DE 07/12/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC&num=47554&comp=&ano=2018&texto=original)
+
+Art. 1º – Este decreto dispõe sobre a qualificação de pessoa jurídica de direito privado, sem fins lucrativos, como Organização da Sociedade Civil de Interesse Público – Oscip – e a instituição do termo de parceria.
+
+[...]
+
+Art. 100 – A Seplag, em articulação com a CGE, adotará medidas necessárias para a efetivação das ações de transparência ativa e aumento do controle social.
+
+
+
+
 </div>
