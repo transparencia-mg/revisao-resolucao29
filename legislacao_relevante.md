@@ -115,6 +115,20 @@ I – quanto à despesa: todos os atos praticados pelas unidades gestoras no dec
 II – quanto à receita: o lançamento e o recebimento de toda a receita das unidades gestoras, inclusive referente a recursos extraordinários.
 
 
+## [LEI 23569, DE 13/01/2020](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=LEI&num=23569&comp=&ano=2020)
+
+Art. 1º – Os atos administrativos e documentos relativos a procedimentos licitatórios que, por determinação legal ou decisão específica do Tribunal de Contas, a este devam ser encaminhados serão publicados também no site do ente ou do órgão estatal que promover a licitação.
+
+Parágrafo único – Também serão disponibilizados no site a que se refere o caput os atos relativos a:
+
+I – dispensa ou inexigibilidade de licitação;
+
+II – procedimentos de contratação mediante parceria público-privada;
+
+III – concessões, permissões e convênios.
+
+Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos.
+
 ## [DECRETO 47553 DE 07/12/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC&num=47553&comp=&ano=2018&texto=original)
 
 Art. 1º – Este decreto dispõe sobre a qualificação de pessoa jurídica de direito privado, sem fins lucrativos, como Organização Social – OS – e a instituição do contrato de gestão.
