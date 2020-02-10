@@ -129,6 +129,12 @@ III – concessões, permissões e convênios.
 
 Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos.
 
+## [DECRETO 45018, DE 20/01/2009](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45018&comp=&ano=2009&aba=js_textoAtualizado#texto)
+
+Art 5º – Fica instituído como endereço eletrônico oficial para divulgação, de forma centralizada, das informações referentes às compras públicas de bens, serviços e obras dos órgãos e entidades abrangidos, de forma obrigatória, por este Decreto, o Portal de Compras MG disponível em: <www.compras.mg.gov.br>.
+
+Parágrafo único – Os editais, suas alterações, anulações ou revogações, e os resultados parciais ou finais dos processos de compra serão disponibilizados no endereço eletrônico de que trata o caput.
+
 ## [DECRETO 47553 DE 07/12/2018](https://www.almg.gov.br/consulte/legislacao/completa/completa-nova-min.html?tipo=DEC&num=47553&comp=&ano=2018&texto=original)
 
 Art. 1º – Este decreto dispõe sobre a qualificação de pessoa jurídica de direito privado, sem fins lucrativos, como Organização Social – OS – e a instituição do contrato de gestão.
