@@ -129,6 +129,34 @@ III – concessões, permissões e convênios.
 
 Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos.
 
+## [DECRETO Nº 7.185, DE 27 DE MAIO DE 2010](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2010/Decreto/D7185.htm)
+
+> Dispõe sobre o padrão mínimo de qualidade do sistema integrado de administração financeira e controle, no âmbito de cada ente da Federação, nos termos do art. 48, parágrafo único, inciso III, da Lei Complementar no 101, de 4 de maio de 2000, e dá outras providências.
+
+Art. 7º  Sem prejuízo dos direitos e garantias individuais constitucionalmente estabelecidos, o SISTEMA deverá gerar, para disponibilização em meio eletrônico que possibilite amplo acesso público, pelo menos, as seguintes informações relativas aos atos praticados pelas unidades gestoras no decorrer da execução orçamentária e financeira:
+
+I - quanto à despesa:
+
+a) o valor do empenho, liquidação e pagamento;
+
+b) o número do correspondente processo da execução, quando for o caso;
+
+c) a classificação orçamentária, especificando a unidade orçamentária, função, subfunção, natureza da despesa e a fonte dos recursos que financiaram o gasto;
+
+d) a pessoa física ou jurídica beneficiária do pagamento, inclusive nos desembolsos de operações independentes da execução orçamentária, exceto no caso de folha de pagamento de pessoal e de benefícios previdenciários;
+
+e) o procedimento licitatório realizado, bem como à sua dispensa ou inexigibilidade, quando for o caso, com o número do correspondente processo; e
+
+f) o bem fornecido ou serviço prestado, quando for o caso;
+
+II - quanto à receita, os valores de todas as receitas da unidade gestora, compreendendo no mínimo sua natureza, relativas a:
+
+a) previsão;
+
+b) lançamento, quando for o caso; e
+
+c) arrecadação, inclusive referente a recursos extraordinários.
+
 ## [DECRETO 45018, DE 20/01/2009](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=45018&comp=&ano=2009&aba=js_textoAtualizado#texto)
 
 Art 5º – Fica instituído como endereço eletrônico oficial para divulgação, de forma centralizada, das informações referentes às compras públicas de bens, serviços e obras dos órgãos e entidades abrangidos, de forma obrigatória, por este Decreto, o Portal de Compras MG disponível em: <www.compras.mg.gov.br>.
