@@ -193,5 +193,56 @@ III – concessões, permissões e convênios.
 
 Art. 2º – Serão publicados no site do ente ou do órgão estatal responsável, logo após o encerramento do processo licitatório, o resumo das propostas de todos os licitantes, notadamente a parte relativa a preços e prazos, e, logo após sua assinatura, o termo do contrato celebrado e seus eventuais termos aditivos ou modificativos.
 
+## [LEI 8.666 DE 21/06/1993](http://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm)
+
+3.1) 
+Art. 3º (...)
+(...)
+§ 3o A licitação não será sigilosa, sendo públicos e acessíveis ao público os atos de seu procedimento, salvo quanto ao conteúdo das propostas, até a respectiva abertura.
+
+3.2) 
+Art. 5o Todos os valores, preços e custos utilizados nas licitações terão como expressão monetária a moeda corrente nacional, ressalvado o disposto no art. 42 desta Lei, devendo cada unidade da Administração, no pagamento das obrigações relativas ao fornecimento de bens, locações, realização de obras e prestação de serviços, obedecer, para cada fonte diferenciada de recursos, a estrita ordem cronológica das datas de suas exigibilidades, salvo quando presentes relevantes razões de interesse público e mediante prévia justificativa da autoridade competente, devidamente publicada. 
+
+3.3) 
+Art. 15. As compras, sempre que possível, deverão: (Regulamento) 
+(...)
+§ 2o Os preços registrados serão publicados trimestralmente para orientação da Administração, na imprensa oficial.
+
+3.4)
+Art. 16. Será dada publicidade, mensalmente, em órgão de divulgação oficial ou em quadro de avisos de amplo acesso público, à relação de todas as compras feitas pela Administração Direta ou Indireta, de maneira a clarificar a identificação do bem comprado, seu preço unitário, a quantidade adquirida, o nome do vendedor e o valor total da operação, podendo ser aglutinadas por itens as compras feitas com dispensa e inexigibilidade de licitação. (Redação dada pela Lei nº 8.883, de 1994)
+
+Parágrafo único. O disposto neste artigo não se aplica aos casos de dispensa de licitação previstos no inciso IX do art. 24. (Incluído pela Lei nº 8.883, de 1994)
+
+3.5)
+Art. 21. Os avisos contendo os resumos dos editais das concorrências, das tomadas de preços, dos concursos e dos leilões, embora realizados no local da repartição interessada, deverão ser publicados com antecedência, no mínimo, por uma vez: (Redação dada pela Lei nº 8.883, de 1994)
+
+(...)
+II - no Diário Oficial do Estado, ou do Distrito Federal quando se tratar, respectivamente, de licitação feita por órgão ou entidade da Administração Pública Estadual ou Municipal, ou do Distrito Federal; (Redação dada pela Lei nº 8.883, de 1994)
+III - em sítio eletrônico oficial do respectivo ente federativo, facultado aos Estados, ao Distrito Federal e aos Municípios, alternativamente, a utilização de sítio eletrônico oficial da União, conforme regulamento do Poder Executivo federal. (Redação dada pela Medida Provisória nº 896, de 2019)
+
+§ 1o O aviso publicado conterá a indicação do local em que os interessados poderão ler e obter o texto integral do edital e todas as informações sobre a licitação.
+
+(...)
+
+§ 4o Qualquer modificação no edital exige divulgação pela mesma forma que se deu o texto original, reabrindo-se o prazo inicialmente estabelecido, exceto quando, inquestionavelmente, a alteração não afetar a formulação das propostas.
+
+
+3.6)
+Art. 26. As dispensas previstas nos §§ 2o e 4o do art. 17 e no inciso III e seguintes do art. 24, as situações de inexigibilidade referidas no art. 25, necessariamente justificadas, e o retardamento previsto no final do parágrafo único do art. 8o desta Lei deverão ser comunicados, dentro de 3 (três) dias, à autoridade superior, para ratificação e publicação na imprensa oficial, no prazo de 5 (cinco) dias, como condição para a eficácia dos atos.
+
+3.7)
+Art. 34. Para os fins desta Lei, os órgãos e entidades da Administração Pública que realizem frequentemente licitações manterão registros cadastrais para efeito de habilitação, na forma regulamentar, válidos por, no máximo, um ano. (Regulamento) 
+
+§ 1º O registro cadastral deverá ser amplamente divulgado e deverá estar permanentemente aberto aos interessados, obrigando-se a unidade por ele responsável a proceder, com periodicidade mínima anual, por meio da imprensa oficial e de sítio eletrônico oficial, a chamamento público para a atualização dos registros existentes e para o ingresso de novos interessados. 
+
+§ 2o É facultado às unidades administrativas utilizarem-se de registros cadastrais de outros órgãos ou entidades da Administração Pública.
+
+3.8)
+Art. 39. Sempre que o valor estimado para uma licitação ou para um conjunto de licitações simultâneas ou sucessivas for superior a 100 (cem) vezes o limite previsto no art. 23, inciso I, alínea "c" desta Lei, o processo licitatório será iniciado, obrigatoriamente, com uma audiência pública concedida pela autoridade responsável com antecedência mínima de 15 (quinze) dias úteis da data prevista para a publicação do edital, e divulgada, com a antecedência mínima de 10 (dez) dias úteis de sua realização, pelos mesmos meios previstos para a publicidade da licitação, à qual terão acesso e direito a todas as informações pertinentes e a se manifestar todos os interessados.
+
+3.9)
+Art. 61. Todo contrato deve mencionar os nomes das partes e os de seus representantes, a finalidade, o ato que autorizou a sua lavratura, o número do processo da licitação, da dispensa ou da inexigibilidade, a sujeição dos contratantes às normas desta Lei e às cláusulas contratuais.
+
+Parágrafo único. A publicação resumida do instrumento de contrato ou de seus aditamentos na imprensa oficial, que é condição indispensável para sua eficácia, será providenciada pela Administração até o quinto dia útil do mês seguinte ao de sua assinatura, para ocorrer no prazo de vinte dias daquela data, qualquer que seja o seu valor, ainda que sem ônus, ressalvado o disposto no art. 26 desta Lei.
 
 </div>
